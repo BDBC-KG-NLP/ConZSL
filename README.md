@@ -9,7 +9,8 @@ pip install -r requirements.txt
 
 # Datasets
 
-We provide our data in the following anonymous [Baidu Cloud link](https://pan.baidu.com/s/1gRMFQ9LDL4uCJrx_Z-3q6w) Access Code: m1i4
+We provide our data in the following anonymous [Baidu Cloud link](https://pan.baidu.com/s/1gRMFQ9LDL4uCJrx_Z-3q6w) Access Code: m1i4.
+
 All processed datasets are in the "data" folder.
 
 
